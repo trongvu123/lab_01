@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessObjects1\BusinessObjects1.csproj" />
+    <ProjectReference Include="..\DataAccessObjects1\DataAccessObjects1.csproj" />
+    <ProjectReference Include="..\Repositories1\Repositories1.csproj" />
+    <ProjectReference Include="..\Services2\Services2.csproj" />
+  </ItemGroup>
+
+</Project>

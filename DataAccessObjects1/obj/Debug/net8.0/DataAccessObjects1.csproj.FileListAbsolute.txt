@@ -1,0 +1,17 @@
+D:\dotnet2\DataAccessObjects1\bin\Debug\net8.0\DataAccessObjects1.deps.json
+D:\dotnet2\DataAccessObjects1\bin\Debug\net8.0\DataAccessObjects1.runtimeconfig.json
+D:\dotnet2\DataAccessObjects1\bin\Debug\net8.0\DataAccessObjects1.dll
+D:\dotnet2\DataAccessObjects1\bin\Debug\net8.0\DataAccessObjects1.pdb
+D:\dotnet2\DataAccessObjects1\bin\Debug\net8.0\BusinessObjects1.dll
+D:\dotnet2\DataAccessObjects1\bin\Debug\net8.0\BusinessObjects1.pdb
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.csproj.AssemblyReference.cache
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.AssemblyInfoInputs.cache
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.AssemblyInfo.cs
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.csproj.CoreCompileInputs.cache
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAcce.16570B9A.Up2Date
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.dll
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\refint\DataAccessObjects1.dll
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.pdb
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\DataAccessObjects1.genruntimeconfig.cache
+D:\dotnet2\DataAccessObjects1\obj\Debug\net8.0\ref\DataAccessObjects1.dll

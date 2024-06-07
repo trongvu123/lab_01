@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet2\\Assignment_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49ED6D06-296E-427D-A883-0D30598825FC}|..\\DataAccessObjects1\\DataAccessObjects1.csproj|d:\\dotnet2\\dataaccessobjects1\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|d:\\dotnet2\\assignment_01\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|d:\\dotnet2\\assignment_01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|d:\\dotnet2\\assignment_01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|d:\\dotnet2\\assignment_01\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|d:\\dotnet2\\assignment_01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2547FD54-15DD-423F-BD1D-02BDAB9811BB}|Assignment_01.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C0A5E6-D45C-48BE-87E2-29A4D0371B8D}|..\\Services2\\Services2.csproj|d:\\dotnet2\\services2\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148AF795-2F3D-453D-8C61-7976EB027225}|..\\Repositories1\\Repositories1.csproj|d:\\dotnet2\\repositories1\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148AF795-2F3D-453D-8C61-7976EB027225}|..\\Repositories1\\Repositories1.csproj|d:\\dotnet2\\repositories1\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148AF795-2F3D-453D-8C61-7976EB027225}|..\\Repositories1\\Repositories1.csproj|d:\\dotnet2\\repositories1\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\dotnet2\\Assignment_01\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\dotnet2\\Assignment_01\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T18:05:05.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Assignment_01\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\dotnet2\\Assignment_01\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:59:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Assignment_01\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "D:\\dotnet2\\Assignment_01\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA4wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:57:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\dotnet2\\Assignment_01\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "D:\\dotnet2\\Assignment_01\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T17:57:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Assignment_01\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\dotnet2\\Assignment_01\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwFIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:40:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Services2\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Services2\\IProductService.cs",
+              "ToolTip": "D:\\dotnet2\\Services2\\IProductService.cs",
+              "RelativeToolTip": "..\\Services2\\IProductService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:48:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\dotnet2\\DataAccessObjects1\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessObjects1\\AccountDAO.cs",
+              "ToolTip": "D:\\dotnet2\\DataAccessObjects1\\AccountDAO.cs",
+              "RelativeToolTip": "..\\DataAccessObjects1\\AccountDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:53:37.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICatergoryRepository.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Repositories1\\ICatergoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories1\\ICatergoryRepository.cs",
+              "ToolTip": "D:\\dotnet2\\Repositories1\\ICatergoryRepository.cs",
+              "RelativeToolTip": "..\\Repositories1\\ICatergoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:42:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Repositories1\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories1\\ProductRepository.cs",
+              "ToolTip": "D:\\dotnet2\\Repositories1\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Repositories1\\ProductRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAywB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:53:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\dotnet2\\Repositories1\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories1\\IProductRepository.cs",
+              "ToolTip": "D:\\dotnet2\\Repositories1\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Repositories1\\IProductRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIBDwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:53:17.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

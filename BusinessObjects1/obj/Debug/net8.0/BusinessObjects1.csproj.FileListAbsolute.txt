@@ -1,0 +1,14 @@
+D:\dotnet2\BusinessObjects1\bin\Debug\net8.0\BusinessObjects1.deps.json
+D:\dotnet2\BusinessObjects1\bin\Debug\net8.0\BusinessObjects1.runtimeconfig.json
+D:\dotnet2\BusinessObjects1\bin\Debug\net8.0\BusinessObjects1.dll
+D:\dotnet2\BusinessObjects1\bin\Debug\net8.0\BusinessObjects1.pdb
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.csproj.AssemblyReference.cache
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.AssemblyInfoInputs.cache
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.AssemblyInfo.cs
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.csproj.CoreCompileInputs.cache
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.dll
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\refint\BusinessObjects1.dll
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.pdb
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\BusinessObjects1.genruntimeconfig.cache
+D:\dotnet2\BusinessObjects1\obj\Debug\net8.0\ref\BusinessObjects1.dll
